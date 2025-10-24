@@ -38,8 +38,9 @@ EcomSystem - https://ecomsystem.pl
 ---
 
 ## Struktura plików
-
+```
 woocommerce-faktura-nip-toggle/  
 ├── plugin.php  
 ├── LICENSE  
 └── README.md  
+```
