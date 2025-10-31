@@ -31,7 +31,7 @@ function add_company_toggle_script() {
             var checkbox = '<h3 id="company_checkbox_field" style="padding-top:0px;">' +
                 '<label class="woocommerce-form__label woocommerce-form__label-for-checkbox checkbox">' +
                 '<input id="company-checkbox" class="woocommerce-form__input woocommerce-form__input-checkbox input-checkbox" type="checkbox" name="is_company" value="1">' +
-                ' <span style="text-transform: none; font-weight: 400;">Chcę fakturę z NIP na Firmę</span>' +
+                ' <span style="text-transform: none; font-weight: 400;">Chcę fakturę z NIP na firmę</span>' +
                 '</label>' +
                 '</h3>';
             
